@@ -1,0 +1,23 @@
+Storm_Year,Storm_Type,severity,severity strength
+2001,Thunderstorms,Weak,2
+2002,Thunderstorms,Moderate,4
+2004,Thunderstorms,Weak,2
+2006,Thunderstorms,Weak,2
+2009,Thunderstorms,Moderate,4
+2012,Thunderstorms,Weak,2
+2013,Thunderstorms,Very Strong,8
+2014,Thunderstorms,Weak,2
+2015,Thunderstorms,Very Strong,8
+2018,Thunderstorms,Weak,2
+2019,Thunderstorms,Weak,2
+1999,Thunderstorms,Strong,6
+2000,Thunderstorms,Weak,2
+2003,Thunderstorms,Weak,2
+2005,Thunderstorms,Weak,2
+2007,Thunderstorms,Strong,6
+2008,Thunderstorms,Weak,2
+2010,Thunderstorms,Strong,6
+2011,Thunderstorms,Moderate,4
+2016,Thunderstorms,Weak,2
+2017,Thunderstorms,Weak,2
+2020,Thunderstorms,Moderate,4
